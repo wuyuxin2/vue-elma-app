@@ -1,17 +1,13 @@
 <template>
-  <div>
-    <div class="header">
-      I am a header!
-    </div>
-  </div>
+    <div>I am goods</div>
 </template>
 
 <script type="text/ecmascript-6">
   export default {
-    name: 'v-header'
+    name: 'v-goods'
   };
 </script>
 
-<style>
+<style scoped>
 
 </style>
